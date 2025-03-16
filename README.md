@@ -7,8 +7,8 @@
 
 
 <div>
- <a href="https://beacons.ai/Benicio227">
- <img height="218em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benicio227&layout=compact&langs_count=16&theme=dracula"/>
+ <a href="https://beacons.ai/DennerLevi">
+ <img height="218em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennerLevi&layout=compact&langs_count=16&theme=dracula"/>
 </div> 
 
 ## Tecnologias que eu uso no meu dia:
@@ -20,8 +20,25 @@
  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
  <img align="center" alt="Csharp" src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-
-
-  
 </div>
 
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
