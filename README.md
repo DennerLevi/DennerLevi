@@ -4,8 +4,6 @@
 🎯 Focado na construção de APIs escaláveis e bem estruturadas
 📌 Apaixonado por tecnologia, organização de código e boas práticas
 
-👋 Olá! Eu sou o Benício Brandão
-
 
 
 <div>
