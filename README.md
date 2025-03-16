@@ -6,10 +6,6 @@
 
 
 
-<div>
- <a href="https://beacons.ai/DennerLevi">
- <img height="218em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennerLevi&layout=compact&langs_count=16&theme=dracula"/>
-</div> 
 
 ## Tecnologias que eu uso no meu dia:
 
